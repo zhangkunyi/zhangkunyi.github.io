@@ -1,5 +1,5 @@
 # Kunyi Zhang (张焜怡)
-<img src="misc/me1.jpg" width = "220" height = "330"/>
+<img src="zhangkunyi.JPG" width = "220" height = "330"/>
 
 Hello there, I am Kyle, currently a Ph.D candidate at [ZJU Fast Lab](http://www.kivact.com/), supervised by Prof. [Fei Gao](https://ustfei.com/) and Prof. Chao Xu. During these years, I have been developing motion planning methods for robot autonomous navigation, mostly for UAVs. 
 
