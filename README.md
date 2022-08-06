@@ -25,7 +25,7 @@ Alibaba DAMO Academy](https://damo.alibaba.com/) (2022.01-2022.07), and now I am
 
 * Ziming Ding, Tiankai Yang, __Kunyi Zhang__, Chao Xu,Fei Gao, __VID-Fusion: Robust Visual-Inertial-Dynamics Odometry for Accurate External Force Estimation__.
 Published by _International Conference on Robotics and Automation (ICRA), 2021_. 
-[[Paper](https://ieeexplore.ieee.org/document/9560898)
+[[Paper](https://ieeexplore.ieee.org/document/9560898) |
 [Video](https://www.bilibili.com/video/BV1aZ4y1V7NF?spm_id_from=333.999.0.0&vd_source=d7b481ad934521dd1e529c999b807535) |
 [Code](https://github.com/ZJU-FAST-Lab/VID-Fusion)]
 
