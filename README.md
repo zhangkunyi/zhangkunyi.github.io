@@ -20,7 +20,8 @@ Alibaba DAMO Academy](https://damo.alibaba.com/) (2022.01-2022.07), and now I am
 
 
 * __Kunyi Zhang__, Tiankai Yang, Ziming Ding, Sheng Yang, Teng Ma, Mingyang Li, Chao Xu, Fei Gao, __The Visual-Inertial- Dynamical Multirotor Dataset__. Published by _International Conference on Robotics and Automation (ICRA), 2022_. 
-[[Paper](https://ieeexplore.ieee.org/document/9811956) | [Video](https://www.bilibili.com/video/BV1s54y1a7x2?spm_id_from=333.999.0.0&vd_source=d7b481ad934521dd1e529c999b807535) | 
+[[Paper](https://ieeexplore.ieee.org/document/9811956) | 
+[Video](https://www.bilibili.com/video/BV1s54y1a7x2?spm_id_from=333.999.0.0&vd_source=d7b481ad934521dd1e529c999b807535) | 
 [Code](https://github.com/ZJU-FAST-Lab/VID-Dataset)]
 
 * Ziming Ding, Tiankai Yang, __Kunyi Zhang__, Chao Xu,Fei Gao, __VID-Fusion: Robust Visual-Inertial-Dynamics Odometry for Accurate External Force Estimation__.
