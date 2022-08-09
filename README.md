@@ -1,4 +1,4 @@
-# Kunyi Zhang (张焜怡)
+<!-- # Kunyi Zhang (张焜怡) -->
 <img src="./kunyizhang.JPG" width = "400" height = "400"/>
 
 Hello there, I am Kunyi Zhang, currently a Ph.D candidate at [ZJU Fast Lab](http://www.kivact.com/), supervised by Prof. [Fei Gao](https://ustfei.com/) and Prof. [Chao Xu](https://person.zju.edu.cn/xu). 
