@@ -1,10 +1,12 @@
 Kunyi Zhang's homepage
 <!-- <img align="left" src="./kunyizhang.JPG" width = "400" height = "300"/> -->
 <center>
-    <img style="border-radius: 0.3125em;
-    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-    width = "" height = ""
-    src="./kunyizhang.JPG" width = "400" height = "300" alt=""/>
+    <img 
+         style="border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+         src="./kunyizhang.JPG" 
+         width = "400" 
+         height = "300" 
+         alt = ""/>
     <br>
     <div style="color:white; border-bottom: 1px solid #d9d9d9;">
       [kunyizhang@zju.edu.cn]
