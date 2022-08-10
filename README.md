@@ -8,7 +8,7 @@
     <br>
     <div
         style="color:black; border-bottom: 1px solid #d9d9d9; display: inline-block; padding: 2px;"
-        align="center">[kunyizhang@zju.edu.cn]
+        align="center">[kunyizhang@zju.edu.cn](kunyizhang@zju.edu.cn)
   	</div>
 </left>
                       
