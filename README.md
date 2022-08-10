@@ -31,13 +31,13 @@ Published by _International Conference on Robotics and Automation (ICRA), 2021_.
 [Code](https://github.com/ZJU-FAST-Lab/VID-Fusion)]
 
 ## Patents
-Unmanned aerial vehicle multi-battery pack charging circuit automatic switching device and method.
-Unmanned aerial vehicle battery replacement device and using method thereof.
-Grabbing device for replacing battery of unmanned aerial vehicle.
+* Unmanned aerial vehicle multi-battery pack charging circuit automatic switching device and method.
+* Unmanned aerial vehicle battery replacement device and using method thereof.
+* Grabbing device for replacing battery of unmanned aerial vehicle.
 
 
 ## Competitions and Awards
-The "Huawei Cup" Graduate Student Mathematical Modeling Competition in 2018, Second Prize.
-The "SUPCON" Scholarship, in 2017-2018 academic year.
-The International Air Robotics Competition (IARC) in 2017, First Prize.
-The International Air Robotics Competition (IARC) in 2018, First Prize&Champion.
+* The International Air Robotics Competition (IARC) in 2017, First Prize.
+* The "Huawei Cup" Graduate Student Mathematical Modeling Competition in 2018, Second Prize.
+* The "SUPCON" Scholarship, in 2017-2018 academic year.
+* The International Air Robotics Competition (IARC) in 2018, First Prize&Champion.
