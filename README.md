@@ -1,7 +1,5 @@
-<center>
-     # Kunyi Zhang's homepage
-</center>
-
+# <center> Kunyi Zhang's homepage
+     
 <!-- <img align="left" src="./kunyizhang.JPG" width = "400" height = "300"/> -->
 <img 
      align="left"
