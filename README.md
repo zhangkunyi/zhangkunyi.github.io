@@ -8,8 +8,7 @@ Hello there, I am Kunyi Zhang (张焜怡), currently a Ph.D candidate at [ZJU Fa
 During these years, I have been developing visual inertal odometry, LIDAR SLAM, multi sensor fusion for robot autonomous navigation. 
 
 I received my Bachelor's Degree of Engineering from [School of Mechanical and Power Engineering](https://mech.ecust.edu.cn/) and Bachelor's Degree of Science from [School of Mathematics](https://math.ecust.edu.cn/) at [East China University of Science and Technology (ECUST)](https://www.ecust.edu.cn/main.htm) in 2016.
-I then started my master's program and a successive doctoral program at [College of Control Science and Engineering (CSE)](http://www.cse.zju.edu.cn/), [ZheJiang University (ZJU)](https://www.zju.edu.cn/english/) in 2017. 
-
+I then started my master's program and a successive doctoral program at [College of Control Science and Engineering (CSE)](http://www.cse.zju.edu.cn/) at [ZheJiang University (ZJU)](https://www.zju.edu.cn/english/) in 2017. 
 
 I used to work as an intern in the Mapping Group of the Automated Driving Division of Dharma Academy, and now I am also working as an intern in the
 I also worked as an intern in the mapping group of  [Autonomous Driving Lab](https://damo.alibaba.com/labs/intelligent-transportation/?lang=en) at
