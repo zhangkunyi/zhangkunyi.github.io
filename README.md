@@ -12,7 +12,40 @@
         align = "left">[kunyizhang@zju.edu.cn]
   	</div>
 </left>
-                                                                                                                  
+
+<body>
+  <div class="page">
+    <h1>Zhepei Wang</h1>
+    <div class="intro">
+      <div class="portrait">
+        <img src="figs/wzp.jpg" width="300" height="401">
+        <p align="center">[<a href="mailto:wangzhepei@live.com">wangzhepei@live.com</a>
+          | <a href="https://github.com/ZhepeiWang">github</a>]</p>
+      </div>
+      <div class="intro_text">
+        <p>Hey, my name is Zhepei. I'm passionate about autonomous vehicles, mathematical programming, and computational
+          geometry.
+          I received my Ph.D. degree in Control Science and Engineering from the <a
+            href="http://www.zju.edu.cn/">Zhejiang University</a>
+          in 2022, for my work on motion planning for flying robots under the supervision of
+          <a href="https://scholar.google.com/citations?user=4RObDv0AAAAJ&hl=en&oi=ao">Fei Gao</a> and
+          <a href="https://person.zju.edu.cn/xu">Chao Xu</a> at the <a href="http://zju-fast.com/">ZJU-FAST-Lab</a>.
+          I received my B.Eng. degree in Automation from the <a href="http://www.cse.zju.edu.cn/">College of Control
+            Science and
+            Engineering</a>, Zhejiang University, in 2017.
+        </p>
+        <p>Selected: <a href="https://github.com/ZJU-FAST-Lab/GCOPTER">
+            A General-Purpose Trajectory Optimizer for Multicopters</a></p>
+        <a href="https://github.com/ZJU-FAST-Lab/GCOPTER" target="blank">
+          <p align="center">
+            <img src="figs/gcopter_se3task_cover.png" width="85%" />
+          </p>
+        </a>
+      </div>
+    </div>
+  </div>
+                      
+                      
 Hello there, I am Kunyi Zhang (张焜怡), currently a Ph.D candidate at [ZJU Fast Lab](http://www.kivact.com/), supervised by Prof. [Fei Gao](https://ustfei.com/) and Prof. [Chao Xu](https://person.zju.edu.cn/xu). 
 During these years, I have been developing visual inertal odometry, LIDAR SLAM, multi sensor fusion for robot autonomous navigation. 
 
