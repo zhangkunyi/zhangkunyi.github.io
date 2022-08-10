@@ -1,5 +1,5 @@
 <img 
-  width = "400" height = "300"
+  width = "300" height = "300"
   src = "./kunyizhang.JPG"
   align = "left"/>
                   
