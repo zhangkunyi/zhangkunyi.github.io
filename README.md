@@ -1,12 +1,11 @@
 # <center> Kunyi Zhang's homepage
 
-<img> 
+<img
      align="left"
      src="./kunyizhang.JPG" 
      width = "400" 
      height = "300" 
-     alt = "[kunyizhang@zju.edu.cn]"
-</img>
+     alt = "[kunyizhang@zju.edu.cn]"/>
 
 Hello there, I am Kunyi Zhang (张焜怡), currently a Ph.D candidate at [ZJU Fast Lab](http://www.kivact.com/), supervised by Prof. [Fei Gao](https://ustfei.com/) and Prof. [Chao Xu](https://person.zju.edu.cn/xu). 
 During these years, I have been developing visual inertal odometry, LIDAR SLAM, multi sensor fusion for robot autonomous navigation. 
