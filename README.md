@@ -4,7 +4,7 @@
     src = "./kunyizhang.JPG"
     align = "left"/>
 Hello there, I am Kunyi Zhang (张焜怡), currently a Ph.D candidate at [ZJU Fast Lab](http://zju-fast.com/), supervised by Prof. [Fei Gao](https://ustfei.com/) and Prof. [Chao Xu](https://person.zju.edu.cn/xu). 
-During these years, I have been developing visual inertal odometry, LIDAR SLAM, multi sensor fusion for robot autonomous navigation. 
+During these years, I have been developing visual inertal odometry, multi sensor fusion, LiDAR SLAM for robot autonomous navigation. 
 
 I received my Bachelor's Degree of Engineering from [School of Mechanical and Power Engineering](https://mech.ecust.edu.cn/) and Bachelor's Degree of Science from [School of Mathematics](https://math.ecust.edu.cn/) at [East China University of Science and Technology (ECUST)](https://www.ecust.edu.cn/main.htm) in 2016.
 I then started my master's program and a successive doctoral program at [College of Control Science and Engineering (CSE)](http://www.cse.zju.edu.cn/) at [ZheJiang University (ZJU)](https://www.zju.edu.cn/english/) in 2017. 
@@ -47,6 +47,5 @@ Submitted to _IEEE International Conference on Robotics and Automation (ICRA), 2
 * The International Air Robotics Competition (IARC) in 2018, First Prize&Champion.
 
 ## Contact Information
-E-mail: [kunyizhang@zju.edu.cn](kunyizhang@zju.edu.cn) 
-
-Address: Room 303, Institute of Intelligent Systems and Control, Yuquan Campus, Zhejiang University, Hangzhou, China
+* E-mail: [kunyizhang@zju.edu.cn](mailto:kunyizhang@zju.edu.cn).
+* Address: Room 303, Institute of Intelligent Systems and Control, Yuquan Campus, Zhejiang University, Hangzhou, China.
