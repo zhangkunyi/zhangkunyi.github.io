@@ -1,10 +1,11 @@
 <img 
   style = "border-radius: 0.3125em; box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
-  width = "400" height = "300"
+  width = "360" height = "270"
   src = "./kunyizhang.JPG"
   align = "left"/>
                   
 Hello there, I am Kunyi Zhang (张焜怡), currently a Ph.D candidate at [ZJU Fast Lab](http://www.kivact.com/), supervised by Prof. [Fei Gao](https://ustfei.com/) and Prof. [Chao Xu](https://person.zju.edu.cn/xu). 
+
 During these years, I have been developing visual inertal odometry, LIDAR SLAM, multi sensor fusion for robot autonomous navigation. 
 
 I received my Bachelor's Degree of Engineering from [School of Mechanical and Power Engineering](https://mech.ecust.edu.cn/) and Bachelor's Degree of Science from [School of Mathematics](https://math.ecust.edu.cn/) at [East China University of Science and Technology (ECUST)](https://www.ecust.edu.cn/main.htm) in 2016.
