@@ -35,9 +35,9 @@ Submitted to _IEEE International Conference on Robotics and Automation (ICRA), 2
 
 
 ## Patents
-* Unmanned aerial vehicle multi-battery pack charging circuit automatic switching device and method.
-* Unmanned aerial vehicle battery replacement device and using method thereof.
-* Grabbing device for replacing battery of unmanned aerial vehicle.
+* Patent for invention, Unmanned aerial vehicle multi-battery pack charging circuit automatic switching device and method (granted).
+* Patent for invention, Unmanned aerial vehicle battery replacement device and using method thereof (granted).
+* Patent for invention, Grabbing device for replacing battery of unmanned aerial vehicle (Under Trial).
 
 
 ## Competitions and Awards
