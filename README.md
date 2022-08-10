@@ -1,4 +1,5 @@
-Kunyi Zhang's homepage
+# Kunyi Zhang's homepage
+
 <!-- <img align="left" src="./kunyizhang.JPG" width = "400" height = "300"/> -->
 <img 
      align="left"
@@ -6,11 +7,11 @@ Kunyi Zhang's homepage
      src="./kunyizhang.JPG" 
      width = "400" 
      height = "300" 
-     alt = ""/>
+     alt = "[kunyizhang@zju.edu.cn]"/>
 <br>
-<div style="color:white; border-bottom: 1px solid #d9d9d9;">
+<!-- <div style="color:white; border-bottom: 1px solid #d9d9d9;">
   [kunyizhang@zju.edu.cn]
-</div>
+</div> -->
 
 Hello there, I am Kunyi Zhang (张焜怡), currently a Ph.D candidate at [ZJU Fast Lab](http://www.kivact.com/), supervised by Prof. [Fei Gao](https://ustfei.com/) and Prof. [Chao Xu](https://person.zju.edu.cn/xu). 
 During these years, I have been developing visual inertal odometry, LIDAR SLAM, multi sensor fusion for robot autonomous navigation. 
