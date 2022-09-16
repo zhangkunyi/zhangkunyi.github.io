@@ -13,11 +13,15 @@ Now, I am working as an intern in the mapping group of [Autonomous Driving Lab](
 [Alibaba DAMO Academy](https://damo.alibaba.com/) (2022.01-now), and also working as an intern at [Zhejiang Yangtze River Delta Feiyang Intelligent Technology Center](http://iie.zju.edu.cn/) in the Collaborative Technology Department (2022.08-now).
 
 ## Publications
+* __Kunyi Zhang__, Chenxing Jiang, Sheng Yang, Teng Ma, Shaojie Shen, Chao Xu, Fei Gao, __WING: Wheel-Inertial-Neural Odometry with Ground Manifold Constraints__. 
+Submitted to _IEEE International Conference on Robotics and Automation (ICRA), 2023_.
+[[Paper](https://github.com/zhangkunyi/zhangkunyi.github.io/blob/77f21d0bf7e6adb8730d0402ae41c961dc088ffc/ICRA2023_KyZhang.pdf) |
+[Video](https://github.com/zhangkunyi/zhangkunyi.github.io/blob/77f21d0bf7e6adb8730d0402ae41c961dc088ffc/ICRA2023_KyZhang.mp4)]
+
 * __Kunyi Zhang__, Chenxing Jiang, Jinghang Li, Sheng Yang, Teng Ma, Chao Xu, Fei Gao, __DIDO: Deep Inertial Quadrotor Dynamical Odometry__. Published by _IEEE Robotics and Automation Letters (RA-L) with IROS option, 2022_.
 [[Paper](https://ieeexplore.ieee.org/document/9817624) |
 [Video](https://www.bilibili.com/video/BV1dU4y1Z773?spm_id_from=333.999.0.0) |
 [Code](https://github.com/zhangkunyi/DIDO/)]
-
 
 * __Kunyi Zhang__, Tiankai Yang, Ziming Ding, Sheng Yang, Teng Ma, Mingyang Li, Chao Xu, Fei Gao, __The Visual-Inertial- Dynamical Multirotor Dataset__. Published by _International Conference on Robotics and Automation (ICRA), 2022_. 
 [[Paper](https://ieeexplore.ieee.org/document/9811956) | 
@@ -29,11 +33,6 @@ Published by _International Conference on Robotics and Automation (ICRA), 2021_.
 [[Paper](https://ieeexplore.ieee.org/document/9560898) |
 [Video](https://www.bilibili.com/video/BV1aZ4y1V7NF?spm_id_from=333.999.0.0&vd_source=d7b481ad934521dd1e529c999b807535) |
 [Code](https://github.com/ZJU-FAST-Lab/VID-Fusion)]
-
-* __Kunyi Zhang__, Chenxing Jiang, Sheng Yang, Teng Ma, Shaojie Shen, Chao Xu, Fei Gao, __WING: Wheel-Inertial-Neural Odometry with Ground Manifold Constraints__. 
-Submitted to _IEEE International Conference on Robotics and Automation (ICRA), 2023_.
-[[Paper](https://github.com/zhangkunyi/zhangkunyi.github.io/blob/77f21d0bf7e6adb8730d0402ae41c961dc088ffc/ICRA2023_KyZhang.pdf) |
-[Video](https://github.com/zhangkunyi/zhangkunyi.github.io/blob/77f21d0bf7e6adb8730d0402ae41c961dc088ffc/ICRA2023_KyZhang.mp4)]
 
 ## Patents
 * Patent for invention, Unmanned aerial vehicle multi-battery pack charging circuit automatic switching device and method (Granted).
