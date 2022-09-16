@@ -32,7 +32,8 @@ Published by _International Conference on Robotics and Automation (ICRA), 2021_.
 
 * __Kunyi Zhang__, Chenxing Jiang, Sheng Yang, Teng Ma, Shaojie Shen, Chao Xu, Fei Gao, __WING: Wheel-Inertial-Neural Odometry with Ground Manifold__. 
 Submitted to _IEEE International Conference on Robotics and Automation (ICRA), 2023_.
-
+[[Paper](https://github.com/zhangkunyi/zhangkunyi.github.io/blob/77f21d0bf7e6adb8730d0402ae41c961dc088ffc/ICRA2023_KyZhang.pdf) |
+[Video](https://github.com/zhangkunyi/zhangkunyi.github.io/blob/77f21d0bf7e6adb8730d0402ae41c961dc088ffc/ICRA2023_KyZhang.mp4)]
 
 ## Patents
 * Patent for invention, Unmanned aerial vehicle multi-battery pack charging circuit automatic switching device and method (Granted).
