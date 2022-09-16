@@ -13,7 +13,7 @@ Now, I am working as an intern in the mapping group of [Autonomous Driving Lab](
 [Alibaba DAMO Academy](https://damo.alibaba.com/) (2022.01-now), and also working as an intern at [Zhejiang Yangtze River Delta Feiyang Intelligent Technology Center](http://iie.zju.edu.cn/) in the Collaborative Technology Department (2022.08-now).
 
 ## Publications
-* __Kunyi Zhang__, Chenxing Jiang, Jinghang Li, Sheng Yang, Teng Ma, Chao Xu, Fei Gao, __DIDO: Deep Inertial Quadrotor Dynamical Odometry__. Published by _IEEE Robotics and Automation Letters (RA-L), 2022_.
+* __Kunyi Zhang__, Chenxing Jiang, Jinghang Li, Sheng Yang, Teng Ma, Chao Xu, Fei Gao, __DIDO: Deep Inertial Quadrotor Dynamical Odometry__. Published by _IEEE Robotics and Automation Letters (RA-L) with IROS option, 2022_.
 [[Paper](https://ieeexplore.ieee.org/document/9817624) |
 [Video](https://www.bilibili.com/video/BV1dU4y1Z773?spm_id_from=333.999.0.0) |
 [Code](https://github.com/zhangkunyi/DIDO/)]
