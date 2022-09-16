@@ -30,7 +30,7 @@ Published by _International Conference on Robotics and Automation (ICRA), 2021_.
 [Video](https://www.bilibili.com/video/BV1aZ4y1V7NF?spm_id_from=333.999.0.0&vd_source=d7b481ad934521dd1e529c999b807535) |
 [Code](https://github.com/ZJU-FAST-Lab/VID-Fusion)]
 
-*	__Kunyi Zhang__, Chenxing Jiang, Sheng Yang, Teng Ma, Chao Xu, Fei Gao, __WING: Wheel-Inertial-Neural Odometry with Ground Manifold__. 
+* __Kunyi Zhang__, Chenxing Jiang, Sheng Yang, Teng Ma, Shaojie Shen, Chao Xu, Fei Gao, __WING: Wheel-Inertial-Neural Odometry with Ground Manifold__. 
 Submitted to _IEEE International Conference on Robotics and Automation (ICRA), 2023_.
 
 
