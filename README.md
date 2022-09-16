@@ -10,7 +10,7 @@ I received my Bachelor's Degree of Engineering from [School of Mechanical and Po
 I then started my master's program and a successive doctoral program at [College of Control Science and Engineering (CSE)](http://www.cse.zju.edu.cn/) at [ZheJiang University (ZJU)](https://www.zju.edu.cn/english/) in 2017. 
 
 Now, I am working as an intern in the mapping group of [Autonomous Driving Lab](https://damo.alibaba.com/labs/intelligent-transportation/?lang=en) at
-[Alibaba DAMO Academy](https://damo.alibaba.com/) (2022.01-2022.08), and also working as an intern at [Zhejiang Yangtze River Delta Feiyang Intelligent Technology Center](http://iie.zju.edu.cn/) in the Collaborative Technology Department (2020.08-now).
+[Alibaba DAMO Academy](https://damo.alibaba.com/) (2022.01-now), and also working as an intern at [Zhejiang Yangtze River Delta Feiyang Intelligent Technology Center](http://iie.zju.edu.cn/) in the Collaborative Technology Department (2022.08-now).
 
 ## Publications
 * __Kunyi Zhang__, Chenxing Jiang, Jinghang Li, Sheng Yang, Teng Ma, Chao Xu, Fei Gao, __DIDO: Deep Inertial Quadrotor Dynamical Odometry__. Published by _IEEE Robotics and Automation Letters (RA-L), 2022_.
