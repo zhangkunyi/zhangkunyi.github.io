@@ -15,8 +15,8 @@ Now, I am working as an intern in the mapping group of [Autonomous Driving Lab](
 ## Publications
 * __Kunyi Zhang__, Chenxing Jiang, Sheng Yang, Teng Ma, Shaojie Shen, Chao Xu, Fei Gao, __WING: Wheel-Inertial-Neural Odometry with Ground Manifold Constraints__. 
 Submitted to _IEEE International Conference on Robotics and Automation (ICRA), 2023_.
-[[Paper](https://github.com/zhangkunyi/zhangkunyi.github.io/blob/77f21d0bf7e6adb8730d0402ae41c961dc088ffc/ICRA2023_KyZhang.pdf) |
-[Video](https://github.com/zhangkunyi/zhangkunyi.github.io/blob/77f21d0bf7e6adb8730d0402ae41c961dc088ffc/ICRA2023_KyZhang.mp4)]
+[[paper](https://github.com/zhangkunyi/zhangkunyi.github.io/blob/main/paper/ICRA2023_KyZhang.pdf) |
+[Video](https://github.com/zhangkunyi/zhangkunyi.github.io/blob/main/paper/ICRA2023_KyZhang.mp4)]
 
 * __Kunyi Zhang__, Chenxing Jiang, Jinghang Li, Sheng Yang, Teng Ma, Chao Xu, Fei Gao, __DIDO: Deep Inertial Quadrotor Dynamical Odometry__. Published by _IEEE Robotics and Automation Letters (RA-L) with IROS option, 2022_.
 [[Paper](https://ieeexplore.ieee.org/document/9817624) |
