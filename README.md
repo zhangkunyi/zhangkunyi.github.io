@@ -4,6 +4,7 @@
     src = "./kunyizhang.JPG"
     align = "left"/>
 Hello there, my name is Kunyi Zhang (张焜怡).
+
 I am passionate about multi-sensor fusion, state estimation, and autonomous navigation for robotics.
 
 I received my Bachelor's Degree in Engineering from [School of Mechanical and Power Engineering](https://mech.ecust.edu.cn/) and my Bachelor's Degree in Science from [School of Mathematics](https://math.ecust.edu.cn/) at [East China University of Science and Technology (ECUST)](https://www.ecust.edu.cn/main.htm) in 2016.
