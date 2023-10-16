@@ -13,7 +13,8 @@ Recently, I received my Ph.D. degree in Electronic and Information Engineering f
 During these years, I have been passionate about multi-sensor fusion, state estimation, and autonomous navigation for robotics.
 
 I used to work as an intern in the mapping group of [Autonomous Driving Lab](https://damo.alibaba.com/labs/intelligent-transportation/?lang=en) at
-[Alibaba DAMO Academy](https://damo.alibaba.com/) (2022.01-2022.11), and also working as an intern at [Zhejiang Yangtze River Delta Feiyang Intelligent Technology Center](http://iie.zju.edu.cn/) in the Collaborative Technology Department (2022.08-now).
+[Alibaba DAMO Academy](https://damo.alibaba.com/) (2022.01-2022.11).
+Now, I am working as an intern at [Zhejiang Yangtze River Delta Feiyang Intelligent Technology Center](http://iie.zju.edu.cn/) in the Collaborative Technology Department (2022.08-now).
 
 ## Publications
 * __Kunyi Zhang__, Chenxing Jiang, Sheng Yang, Teng Ma, Shaojie Shen, Chao Xu, Fei Gao, __WING: Wheel-Inertial-Neural Odometry with Ground Manifold Constraints__. 
