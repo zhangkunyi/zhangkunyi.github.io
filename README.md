@@ -6,7 +6,9 @@
 Hello there, I am Kunyi Zhang (张焜怡).
 
 I received my Bachelor's Degree in Engineering from [School of Mechanical and Power Engineering](https://mech.ecust.edu.cn/) and my Bachelor's Degree in Science from [School of Mathematics](https://math.ecust.edu.cn/) at [East China University of Science and Technology (ECUST)](https://www.ecust.edu.cn/main.htm) in 2016.
+
 I then started my master's program and a successive doctoral program at [College of Control Science and Engineering (CSE)](http://www.cse.zju.edu.cn/) at [ZheJiang University (ZJU)](https://www.zju.edu.cn/english/) in 2017. 
+
 Recently, I received my Ph.D. degree in Electronic and Information Engineering from Zhejiang University under the supervision of Associate Prof. [Fei Gao](https://ustfei.com/) and Prof. [Chao Xu](https://person.zju.edu.cn/xu) at [ZJU Fast Lab](http://zju-fast.com/) in 2023.
 During these years, I have been passionate about multi-sensor fusion, state estimation, and autonomous navigation for robotics.
 
