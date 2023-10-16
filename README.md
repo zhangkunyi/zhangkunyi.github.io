@@ -3,14 +3,15 @@
     width = "300" height = "300"
     src = "./kunyizhang.JPG"
     align = "left"/>
-Hello there, I am Kunyi Zhang (张焜怡), currently a Ph.D candidate at [ZJU Fast Lab](http://zju-fast.com/), supervised by Prof. [Fei Gao](https://ustfei.com/) and Prof. [Chao Xu](https://person.zju.edu.cn/xu). 
-During these years, I have been developing visual inertal odometry, multi sensor fusion, LiDAR SLAM for robot autonomous navigation. 
+Hello there, I am Kunyi Zhang (张焜怡).
 
-I received my Bachelor's Degree of Engineering from [School of Mechanical and Power Engineering](https://mech.ecust.edu.cn/) and Bachelor's Degree of Science from [School of Mathematics](https://math.ecust.edu.cn/) at [East China University of Science and Technology (ECUST)](https://www.ecust.edu.cn/main.htm) in 2016.
+I received my Bachelor's Degree in Engineering from [School of Mechanical and Power Engineering](https://mech.ecust.edu.cn/) and my Bachelor's Degree in Science from [School of Mathematics](https://math.ecust.edu.cn/) at [East China University of Science and Technology (ECUST)](https://www.ecust.edu.cn/main.htm) in 2016.
 I then started my master's program and a successive doctoral program at [College of Control Science and Engineering (CSE)](http://www.cse.zju.edu.cn/) at [ZheJiang University (ZJU)](https://www.zju.edu.cn/english/) in 2017. 
+Recently, I received my Ph.D. degree in Electronic and Information Engineering from Zhejiang University under the supervision of Associate Prof. [Fei Gao](https://ustfei.com/) and Prof. [Chao Xu](https://person.zju.edu.cn/xu) at [ZJU Fast Lab](http://zju-fast.com/) in 2023.
+During these years, I have been passionate about multi-sensor fusion, state estimation, and autonomous navigation for robotics.
 
-Now, I am working as an intern in the mapping group of [Autonomous Driving Lab](https://damo.alibaba.com/labs/intelligent-transportation/?lang=en) at
-[Alibaba DAMO Academy](https://damo.alibaba.com/) (2022.01-now), and also working as an intern at [Zhejiang Yangtze River Delta Feiyang Intelligent Technology Center](http://iie.zju.edu.cn/) in the Collaborative Technology Department (2022.08-now).
+I used to work as an intern in the mapping group of [Autonomous Driving Lab](https://damo.alibaba.com/labs/intelligent-transportation/?lang=en) at
+[Alibaba DAMO Academy](https://damo.alibaba.com/) (2022.01-2022.11), and also working as an intern at [Zhejiang Yangtze River Delta Feiyang Intelligent Technology Center](http://iie.zju.edu.cn/) in the Collaborative Technology Department (2022.08-now).
 
 ## Publications
 * __Kunyi Zhang__, Chenxing Jiang, Sheng Yang, Teng Ma, Shaojie Shen, Chao Xu, Fei Gao, __WING: Wheel-Inertial-Neural Odometry with Ground Manifold Constraints__. 
@@ -37,13 +38,13 @@ Published by _International Conference on Robotics and Automation (ICRA), 2021_.
 ## Patents
 * Patent for invention, Unmanned aerial vehicle multi-battery pack charging circuit automatic switching device and method (Granted).
 * Patent for invention, Unmanned aerial vehicle battery replacement device and using method thereof (Granted).
-* Patent for invention, Grabbing device for replacing battery of unmanned aerial vehicle (Under Trial).
+* Patent for invention, Grabbing device for replacing unmanned aerial vehicle battery (Under Trial).
 
 
 ## Competitions and Awards
 * The International Air Robotics Competition (IARC) in 2017, First Prize.
 * The "Huawei Cup" Graduate Student Mathematical Modeling Competition in 2018, Second Prize.
-* The "SUPCON" Scholarship, in 2017-2018 academic year.
+* The "SUPCON" Scholarship, in the 2017-2018 academic year.
 * The International Air Robotics Competition (IARC) in 2018, First Prize&Champion.
 
 ## Contact Information
