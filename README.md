@@ -3,7 +3,7 @@
     width = "300" height = "300"
     src = "./kunyizhang.JPG"
     align = "left"/>
-Hello there, my name is Kunyi Zhang (张焜怡).
+Hello there, my name is [Kunyi Zhang]() (张焜怡).
 
 I am passionate about multi-sensor fusion, state estimation, and autonomous navigation for robotics.
 
