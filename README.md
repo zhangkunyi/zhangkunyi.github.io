@@ -3,7 +3,7 @@
     width = "300" height = "300"
     src = "./kunyizhang.JPG"
     align = "left"/>
-Hello there, my name is [Kunyi Zhang](./cv_[KunyiZhang](https://github.com/zhangkunyi/zhangkunyi.github.io/blob/main/cv_KunyiZhang_20231016.pdf)_20231016) ([张焜怡](./cv_[KunyiZhang](https://github.com/zhangkunyi/zhangkunyi.github.io/blob/main/cv_cn_KunyiZhang_20231016.pdf)_20231016)).
+Hello there, my name is [Kunyi Zhang](https://github.com/zhangkunyi/zhangkunyi.github.io/blob/main/cv_KunyiZhang_20231016.pdf) ([张焜怡](https://github.com/zhangkunyi/zhangkunyi.github.io/blob/main/cv_cn_KunyiZhang_20231016.pdf)).
 
 I am passionate about multi-sensor fusion, state estimation, and autonomous navigation for robotics.
 
