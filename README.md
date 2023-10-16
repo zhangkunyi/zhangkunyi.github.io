@@ -3,7 +3,7 @@
     width = "300" height = "300"
     src = "./kunyizhang.JPG"
     align = "left"/>
-Hello there, my name is [Kunyi Zhang]() (张焜怡).
+Hello there, my name is [Kunyi Zhang](./cv_KunyiZhang_20231016) ([张焜怡](./个人简历—张焜怡_20231016)).
 
 I am passionate about multi-sensor fusion, state estimation, and autonomous navigation for robotics.
 
