@@ -18,11 +18,12 @@ I used to work as an intern in the mapping group of [Autonomous Driving Lab](htt
 Now, I am working as an intern at [Zhejiang Yangtze River Delta Feiyang Intelligent Technology Center](http://iie.zju.edu.cn/) in the Collaborative Technology Department (2022.08-now).
 
 ## Publications
+<!--
 * __Kunyi Zhang__, Chenxing Jiang, Sheng Yang, Teng Ma, Shaojie Shen, Chao Xu, Fei Gao, __WING: Wheel-Inertial-Neural Odometry with Ground Manifold Constraints__. 
 Submitted to _IEEE International Conference on Robotics and Automation (ICRA), 2023_.
 [[paper](https://github.com/zhangkunyi/zhangkunyi.github.io/blob/main/paper/ICRA2023_KyZhang.pdf) |
 [Video](https://github.com/zhangkunyi/zhangkunyi.github.io/blob/main/paper/ICRA2023_KyZhang.mp4)]
-
+-->
 * __Kunyi Zhang__, Chenxing Jiang, Jinghang Li, Sheng Yang, Teng Ma, Chao Xu, Fei Gao, __DIDO: Deep Inertial Quadrotor Dynamical Odometry__. Published by _IEEE Robotics and Automation Letters (RA-L) with IROS option, 2022_.
 [[Paper](https://ieeexplore.ieee.org/document/9817624) |
 [Video](https://www.bilibili.com/video/BV1dU4y1Z773?spm_id_from=333.999.0.0) |
